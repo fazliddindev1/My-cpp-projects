@@ -31,7 +31,7 @@ Welcome to the **C++ Project Portfolio**! This repository showcases a variety of
 A simple console-based calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ### Number Guessing Game
-A game where the computer generates a random number, and the user has to guess it. The game provides hints like "too high" or "too low" after each guess.
+It is a game where the computer generates a random number, and the user has to guess it. The game provides hints like "too high" or "too low" after each guess.
 
 ### Student Management System
 A console application to manage student records, including adding, deleting, updating, and displaying student information.
@@ -45,7 +45,7 @@ A system to manage library operations, such as issuing books, returning books, a
 A banking system where users can create accounts, deposit and withdraw money, and view account details. It includes proper error handling and uses classes to represent different entities.
 
 ### Inventory Management System
-A system to manage the inventory of a store, with features like adding new items, updating stock, and generating sales reports. Uses file handling to store inventory data.
+A system to manage a store's inventory, with features like adding new items, updating stock, and generating sales reports. Uses file handling to store inventory data.
 
 ## Advanced Projects
 
@@ -66,7 +66,7 @@ An implementation of a machine learning algorithm from scratch, such as linear r
 
 ## Getting Started
 
-To get started with any of these projects, clone the repository and navigate to the desired project's directory. Follow the specific instructions provided in each project's README file.
+To start with any of these projects, clone the repository and navigate to the desired project's directory. Follow the specific instructions provided in each project's README file.
 
 ```bash
 git clone https://github.com/yourusername/cpp-project-portfolio.git
