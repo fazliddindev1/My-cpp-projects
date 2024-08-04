@@ -20,10 +20,6 @@ Welcome to the **C++ Project Portfolio**! This repository showcases a variety of
    - [Compiler](#compiler)
    - [Game Development](#game-development)
    - [Machine Learning Project](#machine-learning-project)
-4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
 
 ## Easy Projects
 
@@ -68,6 +64,4 @@ An implementation of a machine learning algorithm from scratch, such as linear r
 
 To start with any of these projects, clone the repository and navigate to the desired project's directory. Follow the specific instructions provided in each project's README file.
 
-```bash
-git clone https://github.com/yourusername/cpp-project-portfolio.git
-cd cpp-project-portfolio
+
